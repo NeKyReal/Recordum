@@ -2,7 +2,7 @@
 ---
 
 ## Презентация проекта
-Презентация проводилась 21 июня 2023 года. Саму презентацию можно найти [тут](https://www.figma.com/file/SudjNS97GUBDgud0ZZJwkv/NOGOTOCHKI?type=design&node-id=814%3A5374&mode=design&t=Ng0kPHvedgRSqydf-1).
+Презентация проводилась 21 июня 2023 года. Саму презентацию можно найти [тут](https://www.figma.com/file/SudjNS97GUBDgud0ZZJwkv/NOGOTOCHKI?type=design&node-id=814%3A5374&mode=design&t=Ng0kPHvedgRSqydf-1). Автор презентации - [Дронгаль Наталья](https://github.com/Nata111085).
 Также на презентации проекта была показана видео-демонстрация работы сайта. Видео с демонстрацией работы сайта можно посмотреть по ссылке ниже, кликнув на видео.
 
 ---
