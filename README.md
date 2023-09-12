@@ -1,17 +1,13 @@
 
 ---
 
-![Recordum](https://github.com/NeKyReal/Recordum/blob/main/presentation/preview/preview.jpg)
-
----
-
 ## Recordum - сайт для обмена услугами
 Проект разработан в рамках летней производственной практики 2023 года командой HTTPS Hooligans. 
 Для более удобной навигации по проекту используйте список ссылок на вложенные ресурсы.
 
 ---
 
-![Recordum](https://github.com/NeKyReal/Recordum/blob/main/presentation/preview/result.png)
+![Recordum](https://github.com/NeKyReal/Recordum/blob/main/presentation/preview/preview.jpg)
 
 ---
 
@@ -23,5 +19,9 @@
   - ### [Frontend проекта](https://github.com/NeKyReal/Recordum/tree/main/frontend)
   - ### [Backend проекта](https://github.com/NeKyReal/Recordum/tree/main/backend)
 - ### [Презентация](https://github.com/NeKyReal/Recordum/tree/main/presentation)
+
+---
+
+![Recordum](https://github.com/NeKyReal/Recordum/blob/main/presentation/preview/result.png)
 
 ---
