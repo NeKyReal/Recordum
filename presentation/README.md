@@ -7,7 +7,8 @@
 
 ---
 
-> [![Watch the video](https://img.youtube.com/vi/u8Wa_CS67SE/maxresdefault.jpg)](https://www.youtube.com/watch?v=u8Wa_CS67SE)
+[![Видео на YouTube](https://github.com/NeKyReal/Recordum/blob/793a63f881c736755e5c362c8f5602d76a7eb280/backend/images/recordum-preview.png)](https://www.youtube.com/watch?v=u8Wa_CS67SE)
+
 > Видео с [YouTube](https://www.youtube.com/@tochno_shizoff). Представление проекта "Recordum" от команды HTTPS Hooligans. Проект был разработан в рамках летней производственной практики 2023 года.
 
 ---
